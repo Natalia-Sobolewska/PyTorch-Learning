@@ -1,2 +1,2 @@
 # PyTorch-Learning
-Repo for posting code made during Udemy PyTorch course
+Repo for posting code written during Udemy PyTorch course
