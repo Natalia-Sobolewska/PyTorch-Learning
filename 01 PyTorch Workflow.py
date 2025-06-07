@@ -16,6 +16,7 @@ class LinearRegressionModel(nn.Module):
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         return self.weights * x + self.bias  #linear regression formula
 
+
 class LinearRegressionModelV2(nn.Module):
     def __init__(self):
         super().__init__()
